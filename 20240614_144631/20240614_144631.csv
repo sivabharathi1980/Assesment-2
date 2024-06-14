@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+university,Chrome 126.0.0.0,,,14-06-2024 14:46:38,14-06-2024 14:47:38,59.203s,FAILED
+,,,,,,,
+Test Cases/Anna University/Anna,Chrome 126.0.0.0,,,14-06-2024 14:47:29,14-06-2024 14:47:38,8.830s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 14:47:29,14-06-2024 14:47:30,1.154s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,14-06-2024 14:47:30,14-06-2024 14:47:30,0.369s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 14:47:30,14-06-2024 14:47:31,0.774s,PASSED
+"navigateToUrl(""https://www.annauniv.edu/pdf/IRCACT2024_CDTEAT_Srilanka.pdf"")",Chrome 126.0.0.0,,,14-06-2024 14:47:31,14-06-2024 14:47:33,1.996s,PASSED
+"switchToWindowTitle(""Anna University, Chennai"")",Chrome 126.0.0.0,,,14-06-2024 14:47:33,14-06-2024 14:47:38,4.506s,FAILED
